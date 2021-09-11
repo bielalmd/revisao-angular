@@ -1,0 +1,9 @@
+#imgbg{
+    background-image: url('https://images.hdqwalls.com/download/marvel-future-fight-defenders-8s-1360x768.jpg');
+    background-repeat: no-repeat;
+    background-color: oppacity(#0000);
+    background-size: cover;
+    /* background-position: right; */ 
+    min-height: 100vh;
+    
+}
